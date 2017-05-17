@@ -1,0 +1,22 @@
+import sys
+import numpy as np
+import scipy as sc
+import pandas as pd
+from datetime import datetime,timedelta
+import pdb
+import heap as hp
+
+
+class Resource:
+	def __init__(self):
+		self.item = {}
+		
+		
+	def addname(self,rname,bytes):
+		if rname not in self.item.keys():
+			self.item[rname] = bytes
+		else:
+			self.item[rname] += bytes
+			
+	def show(self):
+		print(self.item)		

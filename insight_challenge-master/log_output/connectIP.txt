@@ -1,0 +1,10 @@
+/,654603
+/images/NASA-logosmall.gif,120539
+/images/KSC-logosmall.gif,106107
+/images/USA-logosmall.gif,71117
+/images/WORLD-logosmall.gif,68939
+/images/MOSAIC-logosmall.gif,68545
+/images/ksclogo-medium.gif,64079
+/images/launch-logo.gif,59812
+/shuttle/countdown/,54487
+/images/ksclogosmall.gif,50244
